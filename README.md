@@ -1,2 +1,2 @@
 # MoviesMaza
- Laravel Project Done by Pratik More
+ Laravel Project Created by Pratik More
