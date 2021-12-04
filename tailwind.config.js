@@ -1,5 +1,8 @@
 module.exports = {
-    theme: {
+    purge: {
+        enabled: false
+    },
+    theme: {    
         transparent: 'transparent',
         current: 'currentColor',
         extend: {
